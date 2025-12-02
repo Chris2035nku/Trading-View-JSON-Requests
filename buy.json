@@ -1,0 +1,7 @@
+{
+  "secret": "Tradingviewscrethere",
+  "action": "buy",
+  "symbol": "{{ticker}}",
+  "price": "{{close}}",
+  "usd": (USD Amount here)
+}
