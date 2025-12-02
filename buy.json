@@ -1,5 +1,5 @@
 {
-  "secret": "Tradingviewscrethere",
+  "secret": "Tradingviewsecret",
   "action": "buy",
   "symbol": "{{ticker}}",
   "price": "{{close}}",
